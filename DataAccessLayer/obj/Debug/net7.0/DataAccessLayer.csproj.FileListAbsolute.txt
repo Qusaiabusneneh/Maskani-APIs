@@ -1,0 +1,36 @@
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
