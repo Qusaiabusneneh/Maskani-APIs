@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MaskaniAPI(API Layer).props" />
+</Project>
