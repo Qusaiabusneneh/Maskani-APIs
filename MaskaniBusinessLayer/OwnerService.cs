@@ -34,12 +34,17 @@ namespace MaskaniBusinessLayer
             }
         }
         public async Task<bool> DeleteOwnerAsync(int ownerId) => await _ownerRepository.DeleteAsync(ownerId);
+        
         public async Task<List<clsOwnerDTO>> GetAllOwnersAsync() => await _ownerRepository.GetAllAsync();
+        
         public async Task<clsOwnerDTO?> GetOwnerByIdAsync(int ownerId) => await _ownerRepository.GetByIdAsync(ownerId);
+        
         public async Task<bool> ChangePasswordAsync(int ownerId, string newPassword) => 
             await _ownerRepository.ChangePasswordAsync(ownerId, newPassword);
+        
         public async Task<clsOwnerDTO?> LoginAsync(string email, string password) =>
             await _ownerRepository.LoginAsync(email, clsHashing.HashPassword(password));
+        
         public async Task<bool> VerifyPasswordAsync(string email, string password)
         {
             var owner = await _ownerRepository.GetByEmailAsync(email);
@@ -48,7 +53,10 @@ namespace MaskaniBusinessLayer
             string hashedPassword = clsHashing.HashPassword(password);
             return clsHashing.VerifyPassword(password, hashedPassword);
         }
+        
         public async Task<clsOwnerDTO> GetOwnerByPersonID(int personID)=> await _ownerRepository.GetOwnerByPersonID(personID);
+        
         public async Task<clsOwnerDTO?> GetByEmailAsync(string email)=> await _ownerRepository.GetByEmailAsync(email);
     }
 }
+
