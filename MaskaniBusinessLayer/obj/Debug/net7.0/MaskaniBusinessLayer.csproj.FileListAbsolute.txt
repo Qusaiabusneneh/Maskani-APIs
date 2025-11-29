@@ -1,0 +1,45 @@
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.AssemblyInfoInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.AssemblyInfo.cs
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.csproj.CoreCompileInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.csproj.AssemblyReference.cache
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.deps.json
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniB.80674E94.Up2Date
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\refint\MaskaniBusinessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\API Layer\MaskaniBusinessLayer\obj\Debug\net7.0\ref\MaskaniBusinessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.deps.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.csproj.AssemblyReference.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.AssemblyInfoInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.AssemblyInfo.cs
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.csproj.CoreCompileInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniB.80674E94.Up2Date
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\refint\MaskaniBusinessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\ref\MaskaniBusinessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.deps.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\MaskaniBusinessLayer.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniB.80674E94.Up2Date
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\refint\MaskaniBusinessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\MaskaniBusinessLayer.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniBusinessLayer\obj\Debug\net7.0\ref\MaskaniBusinessLayer.dll
