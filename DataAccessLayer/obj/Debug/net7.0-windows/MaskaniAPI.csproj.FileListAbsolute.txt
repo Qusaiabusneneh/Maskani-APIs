@@ -1,0 +1,98 @@
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\appsettings.Development.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\appsettings.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.staticwebassets.endpoints.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.exe
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.deps.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.runtimeconfig.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.AspNetCore.OpenApi.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.OpenApi.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\DataAccessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniBusinessLayer.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniBusinessLayer.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.csproj.AssemblyReference.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.AssemblyInfoInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.AssemblyInfo.cs
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.csproj.CoreCompileInputs.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\scopedcss\bundle\MaskaniAPI.styles.css
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.build.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.development.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.build.endpoints.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.upToDateCheck.txt
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.csproj.Up2Date
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\refint\MaskaniAPI.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.pdb
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.genruntimeconfig.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\ref\MaskaniAPI.dll
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.build.json.cache
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\rpswa.dswa.cache.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\rjimswa.dswa.cache.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\rjsmrazor.dswa.cache.json
+D:\old\OneDrive\Desktop\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\appsettings.Development.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.staticwebassets.endpoints.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.exe
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.deps.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.runtimeconfig.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniAPI.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Microsoft.OpenApi.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniBusinessLayer.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\bin\Debug\net7.0-windows\MaskaniBusinessLayer.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\rpswa.dswa.cache.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\rjimswa.dswa.cache.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\scopedcss\bundle\MaskaniAPI.styles.css
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.build.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.build.json.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.development.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.build.endpoints.json
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.csproj.Up2Date
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\refint\MaskaniAPI.dll
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.pdb
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\MaskaniAPI.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Maskani Project\Maskani Project\MaskaniAPIs\MaskaniAPI\obj\Debug\net7.0-windows\ref\MaskaniAPI.dll
